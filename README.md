@@ -1,7 +1,6 @@
 # hello-world
 First Repository
 
+Hey 
 
-Hey What's Up?
-
-This is Mudit Bansal here. Learning how to use git in GitHub :)
+This is my first C++ Programming in GitHub
