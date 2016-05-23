@@ -6,7 +6,7 @@ void main()
 {
 int a,b,c;
 a=0;
-b=1;
+b=2;
 c=3;
  for(int i = 0; i<c; i++)
   {
@@ -18,6 +18,6 @@ c=3;
  }
  for(i=0; i<b; i++)
  {
-   cout<<rand(9)<<"/n";
+   cout<<rand(10)<<"/n";
  }
 }
